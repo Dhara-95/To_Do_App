@@ -18,3 +18,10 @@ $ npm start
 ```
 
 To stop the server, press ```CTRL + C``` on the keyboard. 
+
+## Progress
+- Todos Component added.
+- Hardcoded todo item titles are listed on the screen. 
+- Checkboxes added next to each todo item. 
+- If checkbox is ticked the item has a line through it. 
+- Styling function added to grey out background of each item and a dotted border added around each item. 
