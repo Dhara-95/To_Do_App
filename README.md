@@ -10,3 +10,11 @@ $ git clone git@github.com:Dhara-95/to_do_app.git
 $ cd To_Do_App
 ```
 
+## Starting and Stopping the Server
+To start the server and view your app in the browser, type the following into the Command Line:
+
+```
+$ npm start
+```
+
+To stop the server, press ```CTRL + C``` on the keyboard. 
