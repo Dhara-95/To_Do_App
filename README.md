@@ -7,7 +7,7 @@ This app has been built using [Create React App](https://create-react-app.dev/do
 ## Installation Instructions
 ```
 $ git clone git@github.com:Dhara-95/to_do_app.git
-$ cd To_Do_App
+$ cd to_do_app
 ```
 
 ## Starting and Stopping the Server
