@@ -19,6 +19,28 @@ $ npm start
 
 To stop the server, press ```CTRL + C``` on the keyboard. 
 
+## User Stories
+```
+As a User,
+So I can keep track of all my tasks,
+I would like to be able to see a list of todo items on the page.
+```
+```
+As a User,
+So I can see which tasks have been completed, 
+I would like to be able to tick a checkbock, which puts a line through the todo item.
+```
+```
+As a User, 
+So I can update my todo list, 
+I would like to be able to add a new todo item.
+```
+```
+As a User, 
+So I can remove any unwanted todo items, 
+I would like to be able to delete each todo item from the list.
+```
+
 ## Progress
 - Todos Component added.
 - Hardcoded todo item titles are listed on the screen. 
