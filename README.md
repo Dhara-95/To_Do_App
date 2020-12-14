@@ -5,12 +5,14 @@ This is a web application for viewing, creating and deleting 'to-do' list items 
 This app has been built using [Create React App](https://create-react-app.dev/docs/getting-started/) and following the [Traversy Media React tutorial](https://www.youtube.com/watch?v=sBws8MSXN7A&t=702s).
 
 ## Installation Instructions
+
 ```
 $ git clone git@github.com:Dhara-95/to_do_app.git
 $ cd to_do_app
 ```
 
 ## Starting and Stopping the Server
+
 To start the server and view your app in the browser, type the following into the Command Line:
 
 ```
@@ -20,28 +22,31 @@ $ npm start
 To stop the server, press ```CTRL + C``` on the keyboard. 
 
 ## User Stories
+
 ```
-As a User,
-So I can keep track of all my tasks,
-I would like to be able to see a list of todo items on the page.
-```
-```
-As a User,
-So I can see which tasks have been completed, 
-I would like to be able to tick a checkbock, which puts a line through the todo item.
+1. As a User,
+   So I can keep track of all my tasks,
+   I would like to be able to see a list of todo items on the page.
 ```
 ```
-As a User, 
-So I can update my todo list, 
-I would like to be able to add a new todo item.
+2. As a User,
+   So I can see which tasks have been completed, 
+   I would like to be able to tick a checkbock, which puts a line through the todo item.
 ```
 ```
-As a User, 
-So I can remove any unwanted todo items, 
-I would like to be able to delete each todo item from the list.
+3. As a User, 
+   So I can update my todo list, 
+   I would like to be able to add a new todo item.
+```
+```
+4. As a User, 
+   So I can remove any unwanted todo items, 
+   I would like to be able to delete each todo item from the list.
 ```
 
 ## Progress
+
+(User Stories 1 & 2 complete)
 - Todos Component added.
 - Hardcoded todo item titles are listed on the screen. 
 - Checkboxes added next to each todo item. 
